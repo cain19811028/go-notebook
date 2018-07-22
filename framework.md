@@ -10,6 +10,7 @@
 | [beego](https://github.com/astaxie/beego) | 16127 | 3453 | 2018-07-08 08:11:35 |
 | [echo](https://github.com/labstack/echo) | 11026 | 975 | 2018-07-18 06:21:54 |
 | [iris](https://github.com/kataras/iris) | 11000 | 1125 | 2018-07-15 13:09:03 |
+| [kit](https://github.com/go-kit/kit) | 10611 | 1107 | 2018-07-17 16:35:41 |
 | [revel](https://github.com/revel/revel) | 10034 | 1255 | 2018-07-12 19:43:27 |
 
 ## Go Testing Frameworks
