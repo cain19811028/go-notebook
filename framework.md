@@ -6,10 +6,11 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | :--- | :--- | :--- | :--- |
-| [gin](https://github.com/gin-gonic/gin) | 18734 | 2212 | 2018-07-03 09:17:08 |
-| [beego](https://github.com/astaxie/beego) | 16058 | 3444 | 2018-07-08 08:11:35 |
-| [echo](https://github.com/labstack/echo) | 10966 | 967 | 2018-07-11 06:06:17 |
-| [iris](https://github.com/kataras/iris) | 10932 | 1122 | 2018-07-09 06:13:36 |
+| [gin](https://github.com/gin-gonic/gin) | 18895 | 2231 | 2018-07-03 09:17:08 |
+| [beego](https://github.com/astaxie/beego) | 16127 | 3453 | 2018-07-08 08:11:35 |
+| [echo](https://github.com/labstack/echo) | 11026 | 975 | 2018-07-18 06:21:54 |
+| [iris](https://github.com/kataras/iris) | 11000 | 1125 | 2018-07-15 13:09:03 |
+| [revel](https://github.com/revel/revel) | 10034 | 1255 | 2018-07-12 19:43:27 |
 
 ## Go Testing Frameworks
 
