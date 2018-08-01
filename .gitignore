@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# github access token
+github_token.txt
+/github_token.txt
