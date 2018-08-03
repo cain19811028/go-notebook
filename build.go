@@ -9,10 +9,12 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"time"
 )
 
 var md = "framework.md"
 var api = "https://api.github.com/repos/"
+var layout = "1900-01-01 00:00:00"
 var head = "# Framework\n"
 var tail = "\n*Update Date: {}*"
 var table = `
@@ -23,7 +25,12 @@ var table = `
 `
 
 type Repo struct {
+	Name string `json:"name"`
+	HtmlUrl string `json:"html_url"`
+	StargazersCount int `json:"stargazers_count"`
+	ForksCount int `json:"forks_count"`
     DefaultBranch string `json:"default_branch"`
+    LastCommitDate string
 }
 
 type Committer struct {
@@ -51,7 +58,6 @@ func load(token string, title string, file string) {
         	content, _ := ioutil.ReadAll(response.Body)
         	var repo Repo
         	json.Unmarshal([]byte(content), &repo)
-        	fmt.Println(repo.DefaultBranch)
 
         	path = api + url[19:] + "/commits/" + repo.DefaultBranch + "?access_token=" + token
         	response, _ = http.Get(path)
@@ -59,7 +65,10 @@ func load(token string, title string, file string) {
         	content, _ = ioutil.ReadAll(response.Body)
         	var commits Commits
         	json.Unmarshal([]byte(content), &commits)
-        	fmt.Println(commits.Commit.Committer.LastCommitDate)
+
+        	t, _ := time.Parse("2006-01-02T15:04:05Z", commits.Commit.Committer.LastCommitDate)
+        	repo.LastCommitDate = t.Format("2006-01-02 15:04:05")
+        	fmt.Println(repo)
         }
     }
 }
