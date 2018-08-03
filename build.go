@@ -2,12 +2,12 @@ package main
 
 import (
 	"bufio"
-	// "container/list"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
+	"sort"
 	"strings"
 	"time"
 )
@@ -46,7 +46,9 @@ type Commits struct {
 }
 
 func load(token string, title string, file string) {
-	// l := list.New()
+	var repos []Repo
+	var repo Repo
+	var commits Commits
 	f, _ := os.Open("list/" + file)
 	scanner := bufio.NewScanner(f)
     for scanner.Scan() {
@@ -56,21 +58,28 @@ func load(token string, title string, file string) {
         	response, _ := http.Get(path)
         	defer response.Body.Close()
         	content, _ := ioutil.ReadAll(response.Body)
-        	var repo Repo
+        	
         	json.Unmarshal([]byte(content), &repo)
 
         	path = api + url[19:] + "/commits/" + repo.DefaultBranch + "?access_token=" + token
         	response, _ = http.Get(path)
         	defer response.Body.Close()
         	content, _ = ioutil.ReadAll(response.Body)
-        	var commits Commits
+        	
         	json.Unmarshal([]byte(content), &commits)
 
         	t, _ := time.Parse("2006-01-02T15:04:05Z", commits.Commit.Committer.LastCommitDate)
         	repo.LastCommitDate = t.Format("2006-01-02 15:04:05")
+        	repos = append(repos, repo)
         	fmt.Println(repo)
         }
     }
+
+    sort.SliceStable(repos, func(i, j int) bool {
+		return repos[i].StargazersCount < repos[j].StargazersCount
+	})
+
+	fmt.Println(repos)
 }
 
 func build_info() {
