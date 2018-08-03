@@ -16,9 +16,9 @@ var md = "framework.md"
 var api = "https://api.github.com/repos/"
 var layout = "1900-01-01 00:00:00"
 var head = "# Framework\n"
-var tail = "\n*Update Date: {}*"
+var tail = "\n*Update Date: %s*"
 var table = `
-## {} Framework
+## %s Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
@@ -79,11 +79,12 @@ func load(token string, title string, file string) {
 		return repos[i].StargazersCount < repos[j].StargazersCount
 	})
 
-	fmt.Println(repos)
+	build_info(title, repos)
 }
 
-func build_info() {
-
+func build_info(title string, repos []Repo) {
+	f, _ := os.OpenFile("test.md", os.O_APPEND|os.O_WRONLY, 0600)
+	f.WriteString(fmt.Sprintf(table, title))
 }
 
 func build_head() {
@@ -95,7 +96,7 @@ func build_head() {
 
 func build_tail() {
 	f, _ := os.OpenFile("test.md", os.O_APPEND|os.O_WRONLY, 0600)
-	f.WriteString(tail)
+	f.WriteString(fmt.Sprintf(tail, time.Now().Format("2006-01-02 15:04:05")))
 }
 
 func get_token() string {
