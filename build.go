@@ -53,15 +53,11 @@ func load(token string, title string, file string) {
         url := scanner.Text()
         if strings.HasPrefix(url, "https://github.com/") {
         	path := api + url[19:] + "?access_token=" + token
-        	response, _ := http.Get(path)
-        	defer response.Body.Close()
-        	content, _ := ioutil.ReadAll(response.Body)
+        	content := get_content(path)
         	json.Unmarshal([]byte(content), &repo)
 
         	path = api + url[19:] + "/commits/" + repo.DefaultBranch + "?access_token=" + token
-        	response, _ = http.Get(path)
-        	defer response.Body.Close()
-        	content, _ = ioutil.ReadAll(response.Body)
+        	content = get_content(path)
         	json.Unmarshal([]byte(content), &commits)
 
         	t, _ := time.Parse("2006-01-02T15:04:05Z", commits.Commit.Committer.LastCommitDate)
@@ -78,12 +74,18 @@ func load(token string, title string, file string) {
 	build_info(title, repos)
 }
 
+func get_content(path string) []byte {
+	response, _ := http.Get(path)
+	defer response.Body.Close()
+	content, _ := ioutil.ReadAll(response.Body)
+	return content
+}
+
 func build_info(title string, repos []Repo) {
 	f, _ := os.OpenFile(md, os.O_APPEND|os.O_WRONLY, 0600)
-	f.WriteString(fmt.Sprintf(table, title))
-	var result = ""
+	f.WriteString(fmt.Sprintf(table, title))	
 	for _, repo := range repos {
-		result = fmt.Sprintf(column, repo.Name, repo.HtmlUrl, strconv.Itoa(repo.StargazersCount), strconv.Itoa(repo.ForksCount), repo.LastCommitDate)
+		result := fmt.Sprintf(column, repo.Name, repo.HtmlUrl, strconv.Itoa(repo.StargazersCount), strconv.Itoa(repo.ForksCount), repo.LastCommitDate)
 		f.WriteString(result)
 	}
 }
