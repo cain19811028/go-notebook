@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -23,6 +24,7 @@ var table = `
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 `
+var column = "| [%s](%s) | %s | %s | %s |\n"
 
 type Repo struct {
 	Name string `json:"name"`
@@ -85,6 +87,11 @@ func load(token string, title string, file string) {
 func build_info(title string, repos []Repo) {
 	f, _ := os.OpenFile("test.md", os.O_APPEND|os.O_WRONLY, 0600)
 	f.WriteString(fmt.Sprintf(table, title))
+	var result = ""
+	for _, repo := range repos {
+		result = fmt.Sprintf(column, repo.Name, repo.HtmlUrl, strconv.Itoa(repo.StargazersCount), strconv.Itoa(repo.ForksCount), repo.LastCommitDate)
+		f.WriteString(result)
+	}
 }
 
 func build_head() {
