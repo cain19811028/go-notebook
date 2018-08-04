@@ -53,12 +53,12 @@ func load(token string, title string, file string) {
         url := scanner.Text()
         if strings.HasPrefix(url, "https://github.com/") {
         	path := api + url[19:] + "?access_token=" + token
-        	content := get_content(path)
-        	json.Unmarshal([]byte(content), &repo)
+        	content := getContent(path)
+        	json.Unmarshal(content, &repo)
 
         	path = api + url[19:] + "/commits/" + repo.DefaultBranch + "?access_token=" + token
-        	content = get_content(path)
-        	json.Unmarshal([]byte(content), &commits)
+        	content = getContent(path)
+        	json.Unmarshal(content, &commits)
 
         	t, _ := time.Parse("2006-01-02T15:04:05Z", commits.Commit.Committer.LastCommitDate)
         	repo.LastCommitDate = t.Format("2006-01-02 15:04:05")
@@ -71,17 +71,10 @@ func load(token string, title string, file string) {
 		return repos[i].StargazersCount > repos[j].StargazersCount
 	})
 
-	build_info(title, repos)
+	buildInfo(title, repos)
 }
 
-func get_content(path string) []byte {
-	response, _ := http.Get(path)
-	defer response.Body.Close()
-	content, _ := ioutil.ReadAll(response.Body)
-	return content
-}
-
-func build_info(title string, repos []Repo) {
+func buildInfo(title string, repos []Repo) {
 	f, _ := os.OpenFile(md, os.O_APPEND|os.O_WRONLY, 0600)
 	f.WriteString(fmt.Sprintf(table, title))	
 	for _, repo := range repos {
@@ -90,28 +83,35 @@ func build_info(title string, repos []Repo) {
 	}
 }
 
-func build_head() {
+func buildHead() {
 	f, _ := os.Create(md)
 	w := bufio.NewWriter(f)
 	w.WriteString(head)
 	w.Flush()
 }
 
-func build_tail() {
+func buildTail() {
 	f, _ := os.OpenFile(md, os.O_APPEND|os.O_WRONLY, 0600)
 	f.WriteString(fmt.Sprintf(tail, time.Now().Format("2006-01-02 15:04:05")))
 }
 
-func get_token() string {
+func getToken() string {
 	token, _ := ioutil.ReadFile("github_token.txt")
 	return string(token)
 }
 
+func getContent(path string) []byte {
+	response, _ := http.Get(path)
+	defer response.Body.Close()
+	content, _ := ioutil.ReadAll(response.Body)
+	return content
+}
+
 func main() {
-	token := get_token()
-    build_head()
+	token := getToken()
+    buildHead()
     load(token, "Web", "web_list.txt")
     load(token, "Testing", "test_list.txt")
     load(token, "IoT", "iot_list.txt")
-    build_tail()
+    buildTail()
 }
