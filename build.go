@@ -85,7 +85,7 @@ func load(token string, title string, file string) {
 }
 
 func build_info(title string, repos []Repo) {
-	f, _ := os.OpenFile("test.md", os.O_APPEND|os.O_WRONLY, 0600)
+	f, _ := os.OpenFile(md, os.O_APPEND|os.O_WRONLY, 0600)
 	f.WriteString(fmt.Sprintf(table, title))
 	var result = ""
 	for _, repo := range repos {
@@ -95,14 +95,14 @@ func build_info(title string, repos []Repo) {
 }
 
 func build_head() {
-	f, _ := os.Create("test.md")
+	f, _ := os.Create(md)
 	w := bufio.NewWriter(f)
 	w.WriteString(head)
 	w.Flush()
 }
 
 func build_tail() {
-	f, _ := os.OpenFile("test.md", os.O_APPEND|os.O_WRONLY, 0600)
+	f, _ := os.OpenFile(md, os.O_APPEND|os.O_WRONLY, 0600)
 	f.WriteString(fmt.Sprintf(tail, time.Now().Format("2006-01-02 15:04:05")))
 }
 
