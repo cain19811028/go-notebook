@@ -115,5 +115,7 @@ func main() {
 	token := get_token()
     build_head()
     load(token, "Web", "web_list.txt")
+    load(token, "Testing", "test_list.txt")
+    load(token, "IoT", "iot_list.txt")
     build_tail()
 }
