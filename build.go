@@ -35,16 +35,12 @@ type Repo struct {
     LastCommitDate string
 }
 
-type Committer struct {
-	LastCommitDate string `json:"date"`
-}
-
-type Commit struct {
-    Committer Committer
-}
-
 type Commits struct {
-    Commit Commit
+    Commit struct {
+	    Committer struct {
+			LastCommitDate string `json:"date"`
+		}
+	}
 }
 
 func load(token string, title string, file string) {
@@ -60,14 +56,12 @@ func load(token string, title string, file string) {
         	response, _ := http.Get(path)
         	defer response.Body.Close()
         	content, _ := ioutil.ReadAll(response.Body)
-        	
         	json.Unmarshal([]byte(content), &repo)
 
         	path = api + url[19:] + "/commits/" + repo.DefaultBranch + "?access_token=" + token
         	response, _ = http.Get(path)
         	defer response.Body.Close()
         	content, _ = ioutil.ReadAll(response.Body)
-        	
         	json.Unmarshal([]byte(content), &commits)
 
         	t, _ := time.Parse("2006-01-02T15:04:05Z", commits.Commit.Committer.LastCommitDate)
