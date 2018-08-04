@@ -78,7 +78,7 @@ func load(token string, title string, file string) {
     }
 
     sort.SliceStable(repos, func(i, j int) bool {
-		return repos[i].StargazersCount < repos[j].StargazersCount
+		return repos[i].StargazersCount > repos[j].StargazersCount
 	})
 
 	build_info(title, repos)
