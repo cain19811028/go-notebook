@@ -4,6 +4,11 @@
 
 * [https://golang.org/doc/](https://golang.org/doc/)
 
+## 非官方文件
+
+* [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
+* [https://github.com/jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+
 ## 書籍
 
 已購入：
