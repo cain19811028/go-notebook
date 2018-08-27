@@ -4,10 +4,13 @@
 
 * [https://golang.org/doc/](https://golang.org/doc/)
 
-## 非官方文件
+## 非官方資訊
 
 * [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [https://github.com/jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+* [https://studygolang.com/](https://studygolang.com/)（GO 語言中文網）
+* [https://golangtc.com/](https://golangtc.com/)（Golang 中國）
+* [https://gocn.vip/](https://gocn.vip/)（GoCN Forum）
 
 ## 書籍
 
