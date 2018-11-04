@@ -4,11 +4,11 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 21612 | 2558 | 2018-11-01 14:44:49 |
-| [beego](https://github.com/astaxie/beego) | 17593 | 3679 | 2018-10-28 12:01:23 |
-| [iris](https://github.com/kataras/iris) | 12407 | 1264 | 2018-10-29 23:05:33 |
-| [echo](https://github.com/labstack/echo) | 12020 | 1070 | 2018-10-15 07:31:26 |
-| [kit](https://github.com/go-kit/kit) | 11700 | 1233 | 2018-10-31 16:38:24 |
+| [gin](https://github.com/gin-gonic/gin) | 21619 | 2560 | 2018-11-01 14:44:49 |
+| [beego](https://github.com/astaxie/beego) | 17595 | 3682 | 2018-10-28 12:01:23 |
+| [iris](https://github.com/kataras/iris) | 12414 | 1264 | 2018-10-29 23:05:33 |
+| [echo](https://github.com/labstack/echo) | 12022 | 1069 | 2018-10-15 07:31:26 |
+| [kit](https://github.com/go-kit/kit) | 11704 | 1233 | 2018-10-31 16:38:24 |
 | [revel](https://github.com/revel/revel) | 10415 | 1276 | 2018-10-30 13:23:52 |
 | [martini](https://github.com/go-martini/martini) | 10341 | 1067 | 2017-01-21 21:58:54 |
 
@@ -26,4 +26,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 4837 | 603 | 2018-08-30 05:02:59 |
 
-*Update Date: 2018-11-04 11:39:03*
+*Update Date: 2018-11-04 21:54:23*
