@@ -5,10 +5,10 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 24119 | 2830 | 2019-01-25 18:28:39 |
-| [beego](https://github.com/astaxie/beego) | 18779 | 3879 | 2019-01-24 09:27:29 |
+| [beego](https://github.com/astaxie/beego) | 18779 | 3880 | 2019-01-24 09:27:29 |
 | [iris](https://github.com/kataras/iris) | 13547 | 1404 | 2019-01-16 20:46:35 |
-| [echo](https://github.com/labstack/echo) | 12828 | 1139 | 2019-02-01 14:33:56 |
-| [kit](https://github.com/go-kit/kit) | 12534 | 1317 | 2019-02-01 17:54:23 |
+| [echo](https://github.com/labstack/echo) | 12829 | 1139 | 2019-02-01 14:33:56 |
+| [kit](https://github.com/go-kit/kit) | 12535 | 1317 | 2019-02-01 17:54:23 |
 | [revel](https://github.com/revel/revel) | 10710 | 1299 | 2018-10-30 13:23:52 |
 | [martini](https://github.com/go-martini/martini) | 10421 | 1070 | 2017-01-21 21:58:54 |
 
@@ -26,4 +26,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 5106 | 643 | 2018-12-19 16:53:28 |
 
-*Update Date: 2019-02-02 14:39:41*
+*Update Date: 2019-02-02 15:02:36*
