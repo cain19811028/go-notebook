@@ -8,7 +8,7 @@
 | [beego](https://github.com/astaxie/beego) | 19028 | 3919 | 2019-02-12 18:10:25 |
 | [iris](https://github.com/kataras/iris) | 13723 | 1422 | 2019-02-22 02:24:01 |
 | [echo](https://github.com/labstack/echo) | 12999 | 1167 | 2019-02-19 18:18:42 |
-| [kit](https://github.com/go-kit/kit) | 12698 | 1335 | 2019-02-22 05:50:53 |
+| [kit](https://github.com/go-kit/kit) | 12699 | 1335 | 2019-02-22 05:50:53 |
 | [revel](https://github.com/revel/revel) | 10756 | 1301 | 2018-10-30 13:23:52 |
 | [martini](https://github.com/go-martini/martini) | 10435 | 1071 | 2017-01-21 21:58:54 |
 
@@ -26,4 +26,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 5180 | 652 | 2018-12-19 16:53:28 |
 
-*Update Date: 2019-02-24 16:01:03*
+*Update Date: 2019-02-24 17:01:02*
