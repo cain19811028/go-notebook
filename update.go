@@ -110,7 +110,8 @@ func getContent(path string) []byte {
 func main() {
 	token := getToken()
     buildHead()
-    load(token, "Web", "web_list.txt")
+	load(token, "Web", "web_list.txt")
+	load(token, "ORM", "orm_list.txt")
     load(token, "Testing", "test_list.txt")
     load(token, "IoT", "iot_list.txt")
     buildTail()
