@@ -16,7 +16,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 16963 | 1946 | 2020-01-26 15:28:32 |
+| [gorm](https://github.com/jinzhu/gorm) | 16965 | 1947 | 2020-01-26 15:28:32 |
 
 ## Testing Framework
 
@@ -32,4 +32,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6198 | 773 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-01-30 00:01:31*
+*Update Date: 2020-01-30 01:01:32*
