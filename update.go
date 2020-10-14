@@ -51,7 +51,6 @@ func load(token string, title string, file string) {
 	scanner := bufio.NewScanner(f)
 	for scanner.Scan() {
 		url := scanner.Text()
-		fmt.Println("url:" + url)
 		if strings.HasPrefix(url, "https://github.com/") {
 			path := api + url[19:] + "?access_token=" + token
 			content := getContent(path)
@@ -103,7 +102,6 @@ func getToken() string {
 
 func getContent(path string) []byte {
 	response, _ := http.Get(path)
-	fmt.Println(response)
 	defer response.Body.Close()
 	content, _ := ioutil.ReadAll(response.Body)
 	return content
@@ -113,8 +111,8 @@ func main() {
 	token := getToken()
 	buildHead()
 	load(token, "Web", "web_list.txt")
-	// load(token, "ORM", "orm_list.txt")
-	// load(token, "Testing", "test_list.txt")
-	// load(token, "IoT", "iot_list.txt")
-	// buildTail()
+	load(token, "ORM", "orm_list.txt")
+	load(token, "Testing", "test_list.txt")
+	load(token, "IoT", "iot_list.txt")
+	buildTail()
 }
