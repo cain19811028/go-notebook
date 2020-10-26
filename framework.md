@@ -8,8 +8,8 @@
 | [iris](https://github.com/kataras/iris) | 19276 | 2127 | 2020-10-18 15:26:01 |
 | [echo](https://github.com/labstack/echo) | 18340 | 1631 | 2020-09-14 16:12:41 |
 | [kit](https://github.com/go-kit/kit) | 18333 | 1893 | 2020-10-09 22:21:20 |
-| [revel](https://github.com/revel/revel) | 11935 | 1378 | 2020-07-12 05:57:36 |
-| [martini](https://github.com/go-martini/martini) | 11111 | 1112 | 2017-01-21 21:58:54 |
+| [revel](https://github.com/revel/revel) | 11934 | 1378 | 2020-07-12 05:57:36 |
+| [martini](https://github.com/go-martini/martini) | 11112 | 1112 | 2017-01-21 21:58:54 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6759 | 856 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-10-26T11:00:58*
+*Update Date: 2020-10-26T12:00:58*
