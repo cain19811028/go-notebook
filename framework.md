@@ -4,7 +4,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 43045 | 4939 | 2020-10-30 23:20:47 |
-| [beego](https://github.com/astaxie/beego) | 25200 | 5006 | 2020-11-07 14:23:55 |
+| [beego](https://github.com/astaxie/beego) | 25201 | 5006 | 2020-11-07 14:23:55 |
 | [iris](https://github.com/kataras/iris) | 19364 | 2126 | 2020-11-07 10:49:14 |
 | [kit](https://github.com/go-kit/kit) | 18477 | 1909 | 2020-11-03 15:30:51 |
 | [echo](https://github.com/labstack/echo) | 18442 | 1650 | 2020-11-05 12:55:55 |
@@ -26,6 +26,6 @@
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 6791 | 856 | 2019-10-15 17:19:34 |
+| [gobot](https://github.com/hybridgroup/gobot) | 6792 | 856 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-11-08T20:00:57*
+*Update Date: 2020-11-08T21:00:58*
