@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 43118 | 4957 | 2020-11-11 01:41:35 |
-| [beego](https://github.com/astaxie/beego) | 25228 | 5014 | 2020-11-11 00:55:08 |
-| [iris](https://github.com/kataras/iris) | 19384 | 2124 | 2020-11-07 10:49:14 |
-| [kit](https://github.com/go-kit/kit) | 18507 | 1913 | 2020-11-03 15:30:51 |
+| [gin](https://github.com/gin-gonic/gin) | 43121 | 4956 | 2020-11-11 01:41:35 |
+| [beego](https://github.com/astaxie/beego) | 25230 | 5014 | 2020-11-11 00:55:08 |
+| [iris](https://github.com/kataras/iris) | 19387 | 2124 | 2020-11-07 10:49:14 |
+| [kit](https://github.com/go-kit/kit) | 18506 | 1914 | 2020-11-03 15:30:51 |
 | [echo](https://github.com/labstack/echo) | 18459 | 1652 | 2020-11-10 14:30:20 |
 | [revel](https://github.com/revel/revel) | 11962 | 1388 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11120 | 1115 | 2017-01-21 21:58:54 |
@@ -14,7 +14,7 @@
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 187 | 61 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 187 | 62 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6798 | 856 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-11-11T09:01:02*
+*Update Date: 2020-11-11T10:00:58*
