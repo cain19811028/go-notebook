@@ -4,7 +4,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 43311 | 4977 | 2020-11-11 01:41:35 |
-| [beego](https://github.com/astaxie/beego) | 25289 | 5021 | 2020-11-14 08:04:29 |
+| [beego](https://github.com/astaxie/beego) | 25291 | 5021 | 2020-11-14 08:04:29 |
 | [iris](https://github.com/kataras/iris) | 19431 | 2131 | 2020-11-17 05:05:36 |
 | [kit](https://github.com/go-kit/kit) | 18586 | 1925 | 2020-11-15 06:27:13 |
 | [echo](https://github.com/labstack/echo) | 18507 | 1655 | 2020-11-11 13:48:26 |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6818 | 860 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-11-17T15:00:58*
+*Update Date: 2020-11-17T16:00:58*
