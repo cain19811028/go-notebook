@@ -4,7 +4,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 43596 | 5014 | 2020-11-11 01:41:35 |
-| [beego](https://github.com/astaxie/beego) | 25385 | 5025 | 2020-11-26 16:02:56 |
+| [beego](https://github.com/astaxie/beego) | 25386 | 5025 | 2020-11-26 16:02:56 |
 | [iris](https://github.com/kataras/iris) | 19502 | 2141 | 2020-11-26 08:53:52 |
 | [kit](https://github.com/go-kit/kit) | 18684 | 1936 | 2020-11-25 22:37:04 |
 | [echo](https://github.com/labstack/echo) | 18574 | 1656 | 2020-11-25 09:36:46 |
@@ -14,7 +14,7 @@
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 202 | 69 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 203 | 69 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6840 | 859 | 2019-10-15 17:19:34 |
 
-*Update Date: 2020-11-27T00:01:06*
+*Update Date: 2020-11-27T01:00:58*
