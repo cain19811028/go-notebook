@@ -26,6 +26,6 @@
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 6848 | 860 | 2020-12-01 09:54:44 |
+| [gobot](https://github.com/hybridgroup/gobot) | 6849 | 860 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-02T19:01:05*
+*Update Date: 2020-12-02T20:01:05*
