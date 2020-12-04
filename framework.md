@@ -3,24 +3,24 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 43793 | 5038 | 2020-11-11 01:41:35 |
-| [beego](https://github.com/astaxie/beego) | 25430 | 5031 | 2020-12-01 03:52:53 |
+| [gin](https://github.com/gin-gonic/gin) | 43794 | 5038 | 2020-11-11 01:41:35 |
+| [beego](https://github.com/astaxie/beego) | 25431 | 5031 | 2020-12-04 01:22:39 |
 | [iris](https://github.com/kataras/iris) | 19552 | 2143 | 2020-12-02 07:01:02 |
-| [kit](https://github.com/go-kit/kit) | 18761 | 1947 | 2020-11-30 02:00:37 |
-| [echo](https://github.com/labstack/echo) | 18645 | 1661 | 2020-12-02 15:37:02 |
+| [kit](https://github.com/go-kit/kit) | 18762 | 1947 | 2020-11-30 02:00:37 |
+| [echo](https://github.com/labstack/echo) | 18646 | 1661 | 2020-12-02 15:37:02 |
 | [revel](https://github.com/revel/revel) | 12012 | 1389 | 2020-07-12 05:57:36 |
-| [martini](https://github.com/go-martini/martini) | 11149 | 1117 | 2017-01-21 21:58:54 |
+| [martini](https://github.com/go-martini/martini) | 11150 | 1117 | 2017-01-21 21:58:54 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 206 | 71 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 207 | 71 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [goconvey](https://github.com/smartystreets/goconvey) | 6046 | 447 | 2020-10-25 17:47:07 |
-| [ginkgo](https://github.com/onsi/ginkgo) | 4357 | 408 | 2020-10-13 21:46:36 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 4358 | 408 | 2020-10-13 21:46:36 |
 | [goblin](https://github.com/franela/goblin) | 728 | 70 | 2020-10-06 15:55:58 |
 
 ## IoT Framework
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6849 | 860 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-04T01:01:06*
+*Update Date: 2020-12-04T02:00:59*
