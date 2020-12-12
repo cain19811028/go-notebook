@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 44029 | 5054 | 2020-11-11 01:41:35 |
+| [gin](https://github.com/gin-gonic/gin) | 44030 | 5054 | 2020-11-11 01:41:35 |
 | [beego](https://github.com/astaxie/beego) | 25493 | 5034 | 2020-12-04 01:22:39 |
 | [iris](https://github.com/kataras/iris) | 19594 | 2147 | 2020-12-09 05:37:10 |
-| [kit](https://github.com/go-kit/kit) | 18841 | 1950 | 2020-11-30 02:00:37 |
+| [kit](https://github.com/go-kit/kit) | 18841 | 1949 | 2020-11-30 02:00:37 |
 | [echo](https://github.com/labstack/echo) | 18707 | 1671 | 2020-12-11 09:09:41 |
 | [revel](https://github.com/revel/revel) | 12027 | 1389 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11158 | 1117 | 2017-01-21 21:58:54 |
@@ -20,7 +20,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [goconvey](https://github.com/smartystreets/goconvey) | 6064 | 450 | 2020-10-25 17:47:07 |
-| [ginkgo](https://github.com/onsi/ginkgo) | 4379 | 409 | 2020-12-08 20:16:07 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 4380 | 409 | 2020-12-08 20:16:07 |
 | [goblin](https://github.com/franela/goblin) | 730 | 70 | 2020-10-06 15:55:58 |
 
 ## IoT Framework
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6877 | 864 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-12T11:00:58*
+*Update Date: 2020-12-12T12:00:58*
