@@ -14,7 +14,7 @@
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 211 | 73 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 212 | 73 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6888 | 867 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-14T21:00:58*
+*Update Date: 2020-12-14T22:00:59*
