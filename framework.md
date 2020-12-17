@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 44147 | 5062 | 2020-11-11 01:41:35 |
+| [gin](https://github.com/gin-gonic/gin) | 44151 | 5063 | 2020-11-11 01:41:35 |
 | [iris](https://github.com/kataras/iris) | 19624 | 2151 | 2020-12-09 05:37:10 |
-| [kit](https://github.com/go-kit/kit) | 18891 | 1956 | 2020-11-30 02:00:37 |
+| [kit](https://github.com/go-kit/kit) | 18892 | 1956 | 2020-11-30 02:00:37 |
 | [echo](https://github.com/labstack/echo) | 18746 | 1676 | 2020-12-17 02:24:01 |
 | [revel](https://github.com/revel/revel) | 12035 | 1390 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11159 | 1119 | 2017-01-21 21:58:54 |
@@ -14,7 +14,7 @@
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 213 | 73 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 214 | 73 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6891 | 868 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-17T03:01:05*
+*Update Date: 2020-12-17T04:00:58*
