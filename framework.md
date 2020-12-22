@@ -5,10 +5,10 @@
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 44295 | 5073 | 2020-11-11 01:41:35 |
 | [iris](https://github.com/kataras/iris) | 19664 | 2154 | 2020-12-19 23:13:10 |
-| [kit](https://github.com/go-kit/kit) | 18930 | 1955 | 2020-11-30 02:00:37 |
+| [kit](https://github.com/go-kit/kit) | 18931 | 1955 | 2020-11-30 02:00:37 |
 | [echo](https://github.com/labstack/echo) | 18781 | 1679 | 2020-12-18 14:14:59 |
 | [revel](https://github.com/revel/revel) | 12046 | 1387 | 2020-07-12 05:57:36 |
-| [martini](https://github.com/go-martini/martini) | 11167 | 1120 | 2017-01-21 21:58:54 |
+| [martini](https://github.com/go-martini/martini) | 11167 | 1119 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 12 | 1 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6903 | 868 | 2020-12-01 09:54:44 |
 
-*Update Date: 2020-12-22T19:01:04*
+*Update Date: 2020-12-22T20:01:05*
