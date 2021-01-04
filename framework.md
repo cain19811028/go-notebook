@@ -9,7 +9,7 @@
 | [echo](https://github.com/labstack/echo) | 18855 | 1691 | 2021-01-03 19:09:17 |
 | [revel](https://github.com/revel/revel) | 12073 | 1388 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11179 | 1119 | 2017-01-21 21:58:54 |
-| [beego](https://github.com/astaxie/beego) | 29 | 6 | 2020-12-13 11:36:23 |
+| [beego](https://github.com/astaxie/beego) | 28 | 6 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -26,6 +26,6 @@
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 6920 | 869 | 2020-12-01 09:54:44 |
+| [gobot](https://github.com/hybridgroup/gobot) | 6921 | 869 | 2020-12-01 09:54:44 |
 
-*Update Date: 2021-01-03T23:01:03*
+*Update Date: 2021-01-04T00:00:57*
