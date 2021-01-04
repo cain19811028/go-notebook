@@ -5,7 +5,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 44558 | 5096 | 2021-01-03 14:30:22 |
 | [iris](https://github.com/kataras/iris) | 19765 | 2160 | 2021-01-01 21:01:27 |
-| [kit](https://github.com/go-kit/kit) | 19028 | 1964 | 2020-11-30 02:00:37 |
+| [kit](https://github.com/go-kit/kit) | 19028 | 1965 | 2020-11-30 02:00:37 |
 | [echo](https://github.com/labstack/echo) | 18856 | 1691 | 2021-01-03 19:09:17 |
 | [revel](https://github.com/revel/revel) | 12073 | 1388 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11179 | 1119 | 2017-01-21 21:58:54 |
@@ -19,7 +19,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [goconvey](https://github.com/smartystreets/goconvey) | 6098 | 452 | 2020-10-25 17:47:07 |
+| [goconvey](https://github.com/smartystreets/goconvey) | 6099 | 452 | 2020-10-25 17:47:07 |
 | [ginkgo](https://github.com/onsi/ginkgo) | 4425 | 413 | 2021-01-03 16:21:07 |
 | [goblin](https://github.com/franela/goblin) | 734 | 71 | 2020-10-06 15:55:58 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6921 | 869 | 2020-12-01 09:54:44 |
 
-*Update Date: 2021-01-04T03:00:57*
+*Update Date: 2021-01-04T04:00:57*
