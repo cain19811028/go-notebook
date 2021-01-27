@@ -9,12 +9,12 @@
 | [echo](https://github.com/labstack/echo) | 19036 | 1708 | 2021-01-15 20:53:15 |
 | [revel](https://github.com/revel/revel) | 12117 | 1388 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11186 | 1115 | 2017-01-21 21:58:54 |
-| [beego](https://github.com/astaxie/beego) | 55 | 16 | 2020-12-13 11:36:23 |
+| [beego](https://github.com/astaxie/beego) | 56 | 16 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gorm](https://github.com/jinzhu/gorm) | 243 | 76 | 2020-09-21 02:28:17 |
+| [gorm](https://github.com/jinzhu/gorm) | 244 | 76 | 2020-09-21 02:28:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 6963 | 877 | 2020-12-01 09:54:44 |
 
-*Update Date: 2021-01-27T15:00:57*
+*Update Date: 2021-01-27T16:00:58*
