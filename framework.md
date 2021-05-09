@@ -5,7 +5,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 47865 | 5447 | 2021-05-04 14:38:14 |
 | [iris](https://github.com/kataras/iris) | 20521 | 2222 | 2021-04-27 21:11:37 |
-| [kit](https://github.com/go-kit/kit) | 20110 | 2081 | 2021-05-07 12:02:54 |
+| [kit](https://github.com/go-kit/kit) | 20109 | 2081 | 2021-05-07 12:02:54 |
 | [echo](https://github.com/labstack/echo) | 19763 | 1750 | 2021-05-08 20:39:25 |
 | [revel](https://github.com/revel/revel) | 12249 | 1398 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11249 | 1121 | 2017-01-21 21:58:54 |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 7142 | 895 | 2020-12-01 09:54:44 |
 
-*Update Date: 2021-05-09T20:00:55*
+*Update Date: 2021-05-09T21:00:55*
