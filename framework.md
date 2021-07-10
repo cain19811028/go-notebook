@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 49405 | 5607 | 2021-07-09 02:30:44 |
+| [gin](https://github.com/gin-gonic/gin) | 49405 | 5606 | 2021-07-09 02:30:44 |
 | [iris](https://github.com/kataras/iris) | 20846 | 2265 | 2021-07-05 17:07:37 |
-| [kit](https://github.com/go-kit/kit) | 20585 | 2139 | 2021-07-02 14:58:17 |
+| [kit](https://github.com/go-kit/kit) | 20587 | 2139 | 2021-07-02 14:58:17 |
 | [echo](https://github.com/labstack/echo) | 20206 | 1785 | 2021-07-10 02:36:03 |
 | [revel](https://github.com/revel/revel) | 12291 | 1397 | 2020-07-12 05:57:36 |
 | [martini](https://github.com/go-martini/martini) | 11266 | 1124 | 2017-01-21 21:58:54 |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 7228 | 908 | 2020-12-01 09:54:44 |
 
-*Update Date: 2021-07-10T06:00:56*
+*Update Date: 2021-07-10T07:00:56*
