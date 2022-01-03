@@ -3,12 +3,12 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 54387 | 6167 | 2022-01-02 11:07:44 |
-| [kit](https://github.com/go-kit/kit) | 22052 | 2230 | 2021-12-30 00:51:16 |
-| [iris](https://github.com/kataras/iris) | 21658 | 2342 | 2021-12-31 12:55:20 |
-| [echo](https://github.com/labstack/echo) | 21382 | 1900 | 2021-12-20 19:41:59 |
-| [revel](https://github.com/revel/revel) | 12467 | 1405 | 2020-07-12 05:57:36 |
-| [martini](https://github.com/go-martini/martini) | 11391 | 1132 | 2017-01-21 21:58:54 |
+| [gin](https://github.com/gin-gonic/gin) | 54397 | 6169 | 2022-01-02 11:07:44 |
+| [kit](https://github.com/go-kit/kit) | 22055 | 2230 | 2021-12-30 00:51:16 |
+| [iris](https://github.com/kataras/iris) | 21660 | 2342 | 2021-12-31 12:55:20 |
+| [echo](https://github.com/labstack/echo) | 21385 | 1901 | 2021-12-20 19:41:59 |
+| [revel](https://github.com/revel/revel) | 12469 | 1405 | 2020-07-12 05:57:36 |
+| [martini](https://github.com/go-martini/martini) | 11390 | 1132 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 335 | 103 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 7523 | 940 | 2020-12-01 09:54:44 |
 
-*Update Date: 2022-01-03T12:00:43*
+*Update Date: 2022-01-03T18:00:44*
