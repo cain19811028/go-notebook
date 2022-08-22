@@ -3,13 +3,13 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 62134 | 6841 | 2022-08-16 23:14:59 |
+| [gin](https://github.com/gin-gonic/gin) | 62136 | 6840 | 2022-08-16 23:14:59 |
 | [kit](https://github.com/go-kit/kit) | 23667 | 2350 | 2022-08-19 02:17:44 |
-| [echo](https://github.com/labstack/echo) | 23515 | 2024 | 2022-08-20 19:25:45 |
-| [iris](https://github.com/kataras/iris) | 22791 | 2420 | 2022-08-15 10:28:44 |
-| [revel](https://github.com/revel/revel) | 12686 | 1413 | 2022-04-12 20:53:30 |
+| [echo](https://github.com/labstack/echo) | 23519 | 2024 | 2022-08-20 19:25:45 |
+| [iris](https://github.com/kataras/iris) | 22792 | 2420 | 2022-08-15 10:28:44 |
+| [revel](https://github.com/revel/revel) | 12685 | 1413 | 2022-04-12 20:53:30 |
 | [martini](https://github.com/go-martini/martini) | 11497 | 1134 | 2017-01-21 21:58:54 |
-| [beego](https://github.com/astaxie/beego) | 510 | 146 | 2020-12-13 11:36:23 |
+| [beego](https://github.com/astaxie/beego) | 511 | 146 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -19,13 +19,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [goconvey](https://github.com/smartystreets/goconvey) | 7390 | 525 | 2022-05-17 18:39:55 |
-| [ginkgo](https://github.com/onsi/ginkgo) | 6210 | 558 | 2022-08-10 17:17:35 |
+| [goconvey](https://github.com/smartystreets/goconvey) | 7391 | 525 | 2022-05-17 18:39:55 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 6211 | 558 | 2022-08-10 17:17:35 |
 | [goblin](https://github.com/franela/goblin) | 862 | 74 | 2021-10-03 14:34:22 |
 
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 7880 | 967 | 2022-05-02 19:56:19 |
+| [gobot](https://github.com/hybridgroup/gobot) | 7879 | 967 | 2022-05-02 19:56:19 |
 
-*Update Date: 2022-08-22T00:00:28*
+*Update Date: 2022-08-22T04:00:28*
