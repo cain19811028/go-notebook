@@ -3,13 +3,13 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 64325 | 7049 | 2022-11-09 06:50:46 |
-| [echo](https://github.com/labstack/echo) | 24176 | 2065 | 2022-11-12 21:56:47 |
-| [kit](https://github.com/go-kit/kit) | 24156 | 2372 | 2022-08-26 00:50:32 |
-| [iris](https://github.com/kataras/iris) | 23205 | 2440 | 2022-11-09 22:32:21 |
-| [revel](https://github.com/revel/revel) | 12762 | 1418 | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11537 | 1133 | 2017-01-21 21:58:54 |
-| [beego](https://github.com/astaxie/beego) | 561 | 152 | 2020-12-13 11:36:23 |
+| [gin](https://github.com/gin-gonic/gin) | 64331 | 7047 | 2022-11-09 06:50:46 |
+| [echo](https://github.com/labstack/echo) | 24177 | 2066 | 2022-11-12 21:56:47 |
+| [kit](https://github.com/go-kit/kit) | 24159 | 2373 | 2022-08-26 00:50:32 |
+| [iris](https://github.com/kataras/iris) | 23206 | 2440 | 2022-11-09 22:32:21 |
+| [revel](https://github.com/revel/revel) | 12765 | 1417 | 2022-04-12 20:53:30 |
+| [martini](https://github.com/go-martini/martini) | 11538 | 1132 | 2017-01-21 21:58:54 |
+| [beego](https://github.com/astaxie/beego) | 562 | 151 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 7991 | 983 | 2022-05-02 19:56:19 |
 
-*Update Date: 2022-11-14T08:00:31*
+*Update Date: 2022-11-14T12:00:30*
