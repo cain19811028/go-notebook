@@ -3,12 +3,12 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 65526 | 7161 | 2023-01-02 04:40:48 |
-| [echo](https://github.com/labstack/echo) | 24590 | 2086 | 2022-12-27 19:59:53 |
-| [kit](https://github.com/go-kit/kit) | 24372 | 2383 | 2023-01-02 06:10:18 |
+| [gin](https://github.com/gin-gonic/gin) | 65526 | 7160 | 2023-01-03 03:39:57 |
+| [echo](https://github.com/labstack/echo) | 24592 | 2086 | 2022-12-27 19:59:53 |
+| [kit](https://github.com/go-kit/kit) | 24373 | 2383 | 2023-01-02 06:10:18 |
 | [iris](https://github.com/kataras/iris) | 23387 | 2457 | 2022-12-26 21:26:47 |
 | [revel](https://github.com/revel/revel) | 12800 | 1416 | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11547 | 1132 | 2017-01-21 21:58:54 |
+| [martini](https://github.com/go-martini/martini) | 11546 | 1131 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 592 | 157 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 8046 | 992 | 2022-05-02 19:56:19 |
 
-*Update Date: 2023-01-03T00:00:30*
+*Update Date: 2023-01-03T04:00:29*
