@@ -3,8 +3,8 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 78739 | 8014 | 2024-10-29 15:24:53 |
-| [echo](https://github.com/labstack/echo) | 29823 | 2223 | 2024-10-26 12:44:47 |
+| [gin](https://github.com/gin-gonic/gin) | 78738 | 8014 | 2024-10-29 15:24:53 |
+| [echo](https://github.com/labstack/echo) | 29824 | 2223 | 2024-10-26 12:44:47 |
 | [kit](https://github.com/go-kit/kit) | 26599 | 2431 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25250 | 2471 | 2024-10-16 10:52:20 |
 | [revel](https://github.com/revel/revel) | 13150 | 1387 | 2022-04-12 20:53:30 |
@@ -26,6 +26,6 @@
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 8930 | 1041 | 2024-01-07 10:02:29 |
+| [gobot](https://github.com/hybridgroup/gobot) | 8931 | 1041 | 2024-01-07 10:02:29 |
 
-*Update Date: 2024-11-03T00:00:42*
+*Update Date: 2024-11-03T04:00:41*
