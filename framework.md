@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 78774 | 8014 | 2024-10-29 15:24:53 |
-| [echo](https://github.com/labstack/echo) | 29835 | 2227 | 2024-10-26 12:44:47 |
-| [kit](https://github.com/go-kit/kit) | 26604 | 2431 | 2024-03-13 13:42:15 |
-| [iris](https://github.com/kataras/iris) | 25252 | 2471 | 2024-10-16 10:52:20 |
+| [gin](https://github.com/gin-gonic/gin) | 78781 | 8015 | 2024-10-29 15:24:53 |
+| [echo](https://github.com/labstack/echo) | 29838 | 2227 | 2024-10-26 12:44:47 |
+| [kit](https://github.com/go-kit/kit) | 26602 | 2431 | 2024-03-13 13:42:15 |
+| [iris](https://github.com/kataras/iris) | 25254 | 2471 | 2024-10-16 10:52:20 |
 | [revel](https://github.com/revel/revel) | 13151 | 1387 | 2022-04-12 20:53:30 |
 | [martini](https://github.com/go-martini/martini) | 11626 | 1103 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 727 | 181 | 2020-12-13 11:36:23 |
@@ -26,6 +26,6 @@
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 8932 | 1041 | 2024-01-07 10:02:29 |
+| [gobot](https://github.com/hybridgroup/gobot) | 8933 | 1041 | 2024-01-07 10:02:29 |
 
-*Update Date: 2024-11-04T12:00:41*
+*Update Date: 2024-11-04T16:00:42*
