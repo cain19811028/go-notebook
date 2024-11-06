@@ -3,12 +3,12 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 78811 | 8017 | 2024-10-29 15:24:53 |
-| [echo](https://github.com/labstack/echo) | 29851 | 2229 | 2024-10-26 12:44:47 |
+| [gin](https://github.com/gin-gonic/gin) | 78813 | 8018 | 2024-10-29 15:24:53 |
+| [echo](https://github.com/labstack/echo) | 29850 | 2229 | 2024-10-26 12:44:47 |
 | [kit](https://github.com/go-kit/kit) | 26602 | 2431 | 2024-03-13 13:42:15 |
-| [iris](https://github.com/kataras/iris) | 25256 | 2471 | 2024-10-16 10:52:20 |
-| [revel](https://github.com/revel/revel) | 13152 | 1387 | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11626 | 1103 | 2017-01-21 21:58:54 |
+| [iris](https://github.com/kataras/iris) | 25257 | 2471 | 2024-10-16 10:52:20 |
+| [revel](https://github.com/revel/revel) | 13151 | 1387 | 2022-04-12 20:53:30 |
+| [martini](https://github.com/go-martini/martini) | 11625 | 1103 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 727 | 181 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -19,13 +19,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 8339 | 659 | 2024-11-05 12:53:25 |
-| [goconvey](https://github.com/smartystreets/goconvey) | 8255 | 555 | 2024-03-06 06:24:57 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 8340 | 659 | 2024-11-05 12:53:25 |
+| [goconvey](https://github.com/smartystreets/goconvey) | 8256 | 555 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 885 | 79 | 2021-10-03 14:34:22 |
 
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 8942 | 1042 | 2024-11-05 09:43:38 |
+| [gobot](https://github.com/hybridgroup/gobot) | 8941 | 1042 | 2024-11-05 09:43:38 |
 
-*Update Date: 2024-11-06T08:00:42*
+*Update Date: 2024-11-06T12:00:42*
