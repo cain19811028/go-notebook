@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 78928 | 8022 | 2024-10-29 15:24:53 |
-| [echo](https://github.com/labstack/echo) | 29877 | 2228 | 2024-10-26 12:44:47 |
+| [gin](https://github.com/gin-gonic/gin) | 78930 | 8022 | 2024-10-29 15:24:53 |
+| [echo](https://github.com/labstack/echo) | 29879 | 2228 | 2024-10-26 12:44:47 |
 | [kit](https://github.com/go-kit/kit) | 26613 | 2434 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25267 | 2470 | 2024-10-16 10:52:20 |
-| [revel](https://github.com/revel/revel) | 13151 | 1389 | 2022-04-12 20:53:30 |
+| [revel](https://github.com/revel/revel) | 13152 | 1389 | 2022-04-12 20:53:30 |
 | [martini](https://github.com/go-martini/martini) | 11625 | 1103 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 726 | 182 | 2020-12-13 11:36:23 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 8958 | 1043 | 2024-11-05 09:43:38 |
 
-*Update Date: 2024-11-13T04:00:42*
+*Update Date: 2024-11-13T08:00:43*
