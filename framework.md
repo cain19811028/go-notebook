@@ -3,12 +3,12 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 80539 | 8121 | 2025-02-12 02:22:02 |
+| [gin](https://github.com/gin-gonic/gin) | 80539 | 8124 | 2025-02-12 02:22:02 |
 | [echo](https://github.com/labstack/echo) | 30525 | 2253 | 2025-02-12 17:17:34 |
-| [kit](https://github.com/go-kit/kit) | 26831 | 2451 | 2024-03-13 13:42:15 |
-| [iris](https://github.com/kataras/iris) | 25391 | 2472 | 2025-02-08 15:05:57 |
-| [revel](https://github.com/revel/revel) | 13168 | 1385 | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11629 | 1104 | 2017-01-21 21:58:54 |
+| [kit](https://github.com/go-kit/kit) | 26830 | 2451 | 2024-03-13 13:42:15 |
+| [iris](https://github.com/kataras/iris) | 25390 | 2472 | 2025-02-08 15:05:57 |
+| [revel](https://github.com/revel/revel) | 13167 | 1385 | 2022-04-12 20:53:30 |
+| [martini](https://github.com/go-martini/martini) | 11628 | 1104 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 733 | 183 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -19,13 +19,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 8542 | 666 | 2025-02-21 18:59:53 |
-| [goconvey](https://github.com/smartystreets/goconvey) | 8317 | 555 | 2024-03-06 06:24:57 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 8541 | 666 | 2025-02-21 18:59:53 |
+| [goconvey](https://github.com/smartystreets/goconvey) | 8316 | 555 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 889 | 79 | 2021-10-03 14:34:22 |
 
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 9082 | 1048 | 2025-02-16 14:48:48 |
+| [gobot](https://github.com/hybridgroup/gobot) | 9081 | 1048 | 2025-02-16 14:48:48 |
 
-*Update Date: 2025-02-28T00:00:42*
+*Update Date: 2025-02-28T04:00:42*
