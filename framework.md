@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 81309 | 8153 | 2025-03-20 15:40:41 |
-| [echo](https://github.com/labstack/echo) | 30785 | 2262 | 2025-04-04 08:01:42 |
-| [kit](https://github.com/go-kit/kit) | 26936 | 2457 | 2024-03-13 13:42:15 |
-| [iris](https://github.com/kataras/iris) | 25440 | 2477 | 2025-03-29 23:10:25 |
-| [revel](https://github.com/revel/revel) | 13183 | 1384 | 2022-04-12 20:53:30 |
+| [gin](https://github.com/gin-gonic/gin) | 81316 | 8154 | 2025-03-20 15:40:41 |
+| [echo](https://github.com/labstack/echo) | 30790 | 2263 | 2025-04-04 08:01:42 |
+| [kit](https://github.com/go-kit/kit) | 26937 | 2457 | 2024-03-13 13:42:15 |
+| [iris](https://github.com/kataras/iris) | 25441 | 2477 | 2025-03-29 23:10:25 |
+| [revel](https://github.com/revel/revel) | 13184 | 1384 | 2022-04-12 20:53:30 |
 | [martini](https://github.com/go-martini/martini) | 11625 | 1103 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 735 | 184 | 2020-12-13 11:36:23 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 9125 | 1048 | 2025-02-16 14:48:48 |
 
-*Update Date: 2025-04-05T12:00:41*
+*Update Date: 2025-04-05T16:00:41*
