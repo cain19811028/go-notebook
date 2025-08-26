@@ -5,7 +5,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 83719 | 8302 | 2025-08-06 14:16:53 |
 | [echo](https://github.com/labstack/echo) | 31448 | 2282 | 2025-08-25 19:32:58 |
-| [kit](https://github.com/go-kit/kit) | 27256 | 2455 | 2024-03-13 13:42:15 |
+| [kit](https://github.com/go-kit/kit) | 27257 | 2455 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25557 | 2478 | 2025-08-16 19:52:50 |
 | [revel](https://github.com/revel/revel) | 13222 | 1382 | 2022-04-12 20:53:30 |
 | [martini](https://github.com/go-martini/martini) | 11622 | 1096 | 2017-01-21 21:58:54 |
@@ -19,7 +19,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 8784 | 678 | 2025-08-22 03:49:45 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 8786 | 678 | 2025-08-22 03:49:45 |
 | [goconvey](https://github.com/smartystreets/goconvey) | 8383 | 556 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 889 | 76 | 2021-10-03 14:34:22 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 9278 | 1052 | 2025-02-16 14:48:48 |
 
-*Update Date: 2025-08-26T08:00:46*
+*Update Date: 2025-08-26T12:00:45*
