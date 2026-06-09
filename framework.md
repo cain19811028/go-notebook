@@ -3,12 +3,12 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 88645 | 8628 | 2026-06-02 14:02:14 |
-| [echo](https://github.com/labstack/echo) | 32439 | 2326 | 2026-06-08 20:31:17 |
+| [gin](https://github.com/gin-gonic/gin) | 88650 | 8628 | 2026-06-02 14:02:14 |
+| [echo](https://github.com/labstack/echo) | 32441 | 2326 | 2026-06-08 20:31:17 |
 | [kit](https://github.com/go-kit/kit) | 27430 | 2442 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25581 | 2432 | 2026-01-15 12:50:16 |
-| [revel](https://github.com/revel/revel) | 13221 | 1360 | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11603 | 1089 | 2017-01-21 21:58:54 |
+| [revel](https://github.com/revel/revel) | 13222 | 1360 | 2022-04-12 20:53:30 |
+| [martini](https://github.com/go-martini/martini) | 11604 | 1090 | 2017-01-21 21:58:54 |
 | [beego](https://github.com/astaxie/beego) | 742 | 181 | 2020-12-13 11:36:23 |
 
 ## ORM Framework
@@ -19,7 +19,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 9005 | 700 | 2026-05-18 15:50:16 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 9006 | 700 | 2026-05-18 15:50:16 |
 | [goconvey](https://github.com/smartystreets/goconvey) | 8416 | 557 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 890 | 76 | 2021-10-03 14:34:22 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 9425 | 1061 | 2025-10-18 17:21:03 |
 
-*Update Date: 2026-06-09T08:00:47*
+*Update Date: 2026-06-09T12:00:46*
