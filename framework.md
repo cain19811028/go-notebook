@@ -3,8 +3,8 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 88759 | 8634 | 2026-06-23 12:08:30 |
-| [echo](https://github.com/labstack/echo) | 32470 | 2330 | 2026-06-22 16:45:28 |
+| [gin](https://github.com/gin-gonic/gin) | 88759 | 8637 | 2026-06-23 12:08:30 |
+| [echo](https://github.com/labstack/echo) | 32472 | 2330 | 2026-06-22 16:45:28 |
 | [kit](https://github.com/go-kit/kit) | 27432 | 2441 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25579 | 2430 | 2026-01-15 12:50:16 |
 | [revel](https://github.com/revel/revel) | 13226 | 1359 | 2022-04-12 20:53:30 |
@@ -19,7 +19,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 9015 | 702 | 2026-06-22 17:31:43 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 9016 | 702 | 2026-06-22 17:31:43 |
 | [goconvey](https://github.com/smartystreets/goconvey) | 8415 | 557 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 890 | 76 | 2021-10-03 14:34:22 |
 
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 9426 | 1061 | 2025-10-18 17:21:03 |
 
-*Update Date: 2026-06-26T08:00:46*
+*Update Date: 2026-06-26T12:00:47*
