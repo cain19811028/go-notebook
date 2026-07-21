@@ -4,7 +4,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [gin](https://github.com/gin-gonic/gin) | 88941 | 8649 | 2026-06-26 16:48:16 |
-| [echo](https://github.com/labstack/echo) | 32546 | 2342 | 2026-07-16 19:16:26 |
+| [echo](https://github.com/labstack/echo) | 32543 | 2342 | 2026-07-16 19:16:26 |
 | [kit](https://github.com/go-kit/kit) | 27432 | 2444 | 2024-03-13 13:42:15 |
 | [iris](https://github.com/kataras/iris) | 25570 | 2429 | 2026-01-15 12:50:16 |
 | [revel](https://github.com/revel/revel) | 13222 | 1357 | 2022-04-12 20:53:30 |
@@ -28,4 +28,4 @@
 | ------------ | ----- | ----- | ----------- |
 | [gobot](https://github.com/hybridgroup/gobot) | 9438 | 1063 | 2025-10-18 17:21:03 |
 
-*Update Date: 2026-07-21T08:00:48*
+*Update Date: 2026-07-21T12:00:46*
