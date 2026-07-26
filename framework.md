@@ -19,13 +19,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [ginkgo](https://github.com/onsi/ginkgo) | 9034 | 705 | 2026-07-01 21:47:00 |
+| [ginkgo](https://github.com/onsi/ginkgo) | 9033 | 705 | 2026-07-01 21:47:00 |
 | [goconvey](https://github.com/smartystreets/goconvey) | 8414 | 559 | 2024-03-06 06:24:57 |
 | [goblin](https://github.com/franela/goblin) | 889 | 76 | 2021-10-03 14:34:22 |
 
 ## IoT Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [gobot](https://github.com/hybridgroup/gobot) | 9436 | 1063 | 2025-10-18 17:21:03 |
+| [gobot](https://github.com/hybridgroup/gobot) | 9437 | 1063 | 2025-10-18 17:21:03 |
 
-*Update Date: 2026-07-26T08:00:47*
+*Update Date: 2026-07-26T12:00:47*
